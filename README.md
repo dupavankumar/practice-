@@ -5,4 +5,7 @@ Hope u enjoy this session.....
 -----------------------------------------------------------
 I am modified this file in branch "branch2" not in main
 -----------------------------------------------------------
+I found that main branch is merged with "branch2".
+After merging u need to push main branch
+If u don't want branch "branch2" u can delete it.
 
